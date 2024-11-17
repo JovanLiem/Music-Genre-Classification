@@ -1,0 +1,2 @@
+<h1>Music Genre Classification</h1>
+In order to complete my final project on speech recognition course (4th semester), I did music genre classification project. In this project, before I build the machine learning or deep learning model, I do some feature scaling using standard scaler, I also split the data into 80% for training, 10% for validation and 10% for testing. Then, I build the XGBoost, Random Forest, MLP, and CNN-LSTM model. <br>
